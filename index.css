@@ -2,14 +2,12 @@ body {
     font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
     text-align: center;
 }
-
 h1 {
     font-size: 3em;
     padding: 3em 0 0 0em;
     margin: auto;
     margin-bottom: 50px;
 }
-
 .clock {
     width: 200px;
     font-size: 1.5em;
@@ -19,32 +17,22 @@ h1 {
     border-color: rgb(39, 39, 39);
     border-style: solid;
 }
-
-
-
-
-
 @media screen and (min-width: 768px){
-
     h1 {
         font-size: 4em;
         padding: 2em 0 0 0;
     }
-    
     .clock {
         font-size: 2em;
         padding: .5em 1em;
         margin: auto;
     }
-
 }
-
 @media screen and (min-width: 2560px){
     h1{
         font-size: 10em;
         padding: 1em 0 0 0;
     }
-
     .clock {
         font-size: 2/5em;
         padding: 2em 6em;
