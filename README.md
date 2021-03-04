@@ -1,2 +1,2 @@
 # Digital-Clock
-A clock made with vanilla Javascript
+A clock made with Vanilla Javascript
